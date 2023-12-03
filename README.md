@@ -5,6 +5,9 @@
 <h3 align="center">🎵PORTFOLIO🎶</h3>
 <p align="center">⏩<a href="https://kimgwanghun.notion.site/PORTFOLIO-3777d981276745c3b839c68e0f414bfb?pvs=4">포트폴리오 보러가기!</a>⏪</p>
 <hr>
+<h3 align="center">🎧NOTION🎸</h3>
+<p align="center">⏩<a href="https://lumpy-newsboy-52b.notion.site/STUDY-a0d1153c3a994a199d546ca8f4564ca3?pvs=4">노션 보러가기!</a>⏪</p>
+<hr>
 <h3 align="center">🎤SKILL🎹</h3>
 <p align="center">
   <a href="https://www.java.com/ko/" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" alt="java" width="40" height="40"/> </a>
@@ -22,6 +25,8 @@
   <a href="https://mybatis.org/mybatis-3/" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592435324/noticon/judba41udt3wtirdj4ek.png" alt="mybatis" width="40" height="40"/> </a>
   <a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1609094551/noticon/gkcjchloc7f7khlsyyyy.png" alt="jpa" width="40" height="40"/> </a>
 </p>
-
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimgwanghun&show_icons=true&locale=en&layout=compact" alt="kimgwanghun" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimgwanghun&show_icons=true&locale=en&layout=compact" alt="kimgwanghun" />
+<img src="https://github-readme-stats.vercel.app/api?username=kimgwanghun&show_icons=true&locale=en" alt="kimgwanghun" />
+</div>
