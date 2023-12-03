@@ -1,16 +1,26 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=778899&height=200&section=header&text=광훈's&nbsp;GitHub&fontSize=90" />
 <hr>
 <h3 align="center">Steady & Study</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimgwanghun&label=view&color=579e00&style=flat-square" alt="kimgwanghun" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<hr>
+<h3 align="center">SKILL</h3>
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" alt="java" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778017/noticon/ytjm1rralodyhvuggrpu.png" alt="spring" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008187/noticon/m4oad4rbf65fjszx0did.png" alt="springboot" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603423163/noticon/az0cvs28lm7gxoowlsva.png" alt="mysql" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png" alt="css" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png" alt="html" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128495/noticon/gpkdob34yhkxoo7cyyqv.png" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629279836/noticon/qopgwljhqw2ezqxnfjpe.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592435734/noticon/ovcserf615eo3sbcbv8b.png" alt=thymeleaf"" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128552/noticon/mksvojnxnqtvdwrhttce.png" alt="jquery" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592435019/noticon/z0s5osjhwlxpeo6pxslv.png" alt="jsp" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1623252802/noticon/dwhdor3qcwlynwmnqsxy.png" alt="ajax" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592435324/noticon/judba41udt3wtirdj4ek.png" alt="mybatis" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1609094551/noticon/gkcjchloc7f7khlsyyyy.png" alt="jpa" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimgwanghun&show_icons=true&locale=en&layout=compact" alt="kimgwanghun" /></p>
+<hr>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimgwanghun&show_icons=true&locale=en&layout=compact" alt="kimgwanghun" /></p>
 
 Support 🙏
