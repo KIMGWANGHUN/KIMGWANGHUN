@@ -1,15 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=778899&height=200&section=header&text=광훈's&nbsp;GitHub&fontSize=90" />
 <hr>
 <h3 align="center">🚶‍♂️Steady & Study📚</h3>
-<p align="center>꾸준히 공부하는 JAVA웹개발자입니다😜</p>
+<p align="center">🍃꾸준히 공부하는 JAVA웹개발자입니다😜</p>
 <hr>
 <h3 align="center">🎵PORTFOLIO🎶</h3>
 <p align="center">⏩<a href="https://kimgwanghun.notion.site/PORTFOLIO-3777d981276745c3b839c68e0f414bfb?pvs=4">포트폴리오 보러가기!</a>⏪</p>
 <hr>
-<h3 align="center">🎧NOTION🎸</h3>
+<h3 align="center">🎤NOTION🎧</h3>
 <p align="center">⏩<a href="https://lumpy-newsboy-52b.notion.site/STUDY-a0d1153c3a994a199d546ca8f4564ca3?pvs=4">노션 보러가기!</a>⏪</p>
 <hr>
-<h3 align="center">🎤SKILL🎹</h3>
+<h3 align="center">💪SKILL🤳</h3>
 <p align="center">
   <a href="https://www.java.com/ko/" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" alt="java" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778017/noticon/ytjm1rralodyhvuggrpu.png" alt="spring" width="40" height="40"/> </a>
